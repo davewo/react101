@@ -8,7 +8,7 @@
 npm i -g @storybook/cli
 getstorybook
 yarn storybook
-quit storybook with ^C
+# note: you can quit storybook with ^C
 ```
 
 Create file **src/Movies.js** with the following contents
