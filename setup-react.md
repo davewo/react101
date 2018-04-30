@@ -3,7 +3,7 @@
 
 [react - Core react site](https://reactjs.org/)
 
-[react-dom - React Dom intetration extensions](https://reactjs.org/docs/react-dom.html)
+[react-dom - React Dom integration extensions](https://reactjs.org/docs/react-dom.html)
 
 [Bable - Javascript cross browser support](https://babeljs.io/)
 
