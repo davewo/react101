@@ -8,7 +8,7 @@
 yarn add react-intl 
 ```
 
-Update **stories/index.stories.js** to add IntlProvider which supplies local info to the application
+Update **stories/index.stories.js** to add IntlProvider which supplies locale info to the application
 
 ```diff 
 import React from 'react';
@@ -44,7 +44,7 @@ export class Movies extends React.Component {
 +      <div>
 +        <FormattedMessage
 +          id="hello"
-+          defaultMessage='Hello {name}!!'
++          defaultMessage="Hello {name}!!"
 +          values={{name: name}}/>
 +      </div>);
 -      return (<div>Hello Jeff!!</div>);
